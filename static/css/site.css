@@ -6,6 +6,14 @@ div.card {
 	margin: 2em;
 	padding: 1em;
 	display: inline-block;
+    text-align: center;
+    text-transform: capitalize;
+}
+
+div#skill {
+
+    border: 2px solid black;
+
 }
 
 body {
@@ -14,4 +22,8 @@ body {
 
 img {
 	height: 7em;	
+}
+
+#cardimg {
+    border: 2px dotted green;
 }
